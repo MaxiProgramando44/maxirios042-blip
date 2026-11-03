@@ -1,68 +1,64 @@
 # Maximiliano Rios Henao
 
-Estudiante de Ingeniería de Sistemas Cibernéticos apasionado por el desarrollo de software y la creación de circuitos electrónicos. Me gusta aprender constantemente y tengo buenas ideas para proyectos.
+Estudiante de Ingeniería de Sistemas Cibernéticos. Apasionado por el desarrollo de software y la creación de circuitos electrónicos, con un enfoque constante en el aprendizaje y la ejecución de ideas tecnológicas.
 
 ---
 
-## 1. Presentación
-- 📍 **Ubicación:** Bello, Antioquia, Colombia
-- 🎓 **Rol:** Estudiante de Ingeniería de Sistemas Cibernéticos
-- 💡 **Perfil:** Orientado al aprendizaje continuo, la innovación y el desarrollo de proyectos tecnológicos.
+## Presentación
+
+- **Ubicación:** Bello, Antioquia, Colombia
+- **Perfil:** Estudiante de Ingeniería de Sistemas Cibernéticos
+- **Enfoque:** Desarrollo de software y prototipos electrónicos
 
 ---
 
-## 2. Intereses
-- Desarrollo de software
-- Creación y diseño de circuitos electrónicos
-- Aprendizaje de nuevas tecnologías y metodologías
+## Intereses
+
+- Desarrollo de software y automatización
+- Creación de circuitos electrónicos y sistemas embebidos
+- Aprendizaje continuo y resolución de problemas técnicos
 
 ---
 
-## 3. Tecnologías
+## Tecnologías
 
-### Lenguajes y Tecnologías Web
-- **HTML:** Avanzado (creación de páginas web)
-- **CSS:** Intermedio (estilizado y diseño web)
-- **JavaScript:** Básico (automatizaciones)
-- **PHP:** Básico (gestión e integración con bases de datos)
-
----
-
-## 4. Proyectos
-- `[Añadir proyecto 1]` - Descripción breve del proyecto.
-- `[Añadir proyecto 2]` - Descripción breve del proyecto.
+| Tecnología | Nivel | Experiencia / Aplicación |
+| :--- | :--- | :--- |
+| **HTML** | Avanzado | Creación y estructura de páginas web |
+| **CSS** | Intermedio | Diseño y estilización web |
+| **JavaScript** | Básico | Automatizaciones |
+| **PHP** | Básico | Conexión y gestión de bases de datos |
 
 ---
 
-## 5. Formación
-- **Ingeniería de Sistemas Cibernéticos** (En curso)  
-  *`[Añadir Institución / Universidad]`*
+## Proyectos
+
+*(Espacio reservado para repositorios destacados)*
 
 ---
 
-## 6. Contacto
-- 🐙 **GitHub:** [@MaxiProgramando44](https://github.com/MaxiProgramando44)
-- 📧 **Correo:** `[Añadir correo electrónico]`
-- 💼 **LinkedIn:** `[Añadir perfil de LinkedIn]`
+## Formación
+
+- **Ingeniería de Sistemas Cibernéticos** *(En curso)*
+
+---
+
+## Contacto
+
+- **GitHub:** [MaxiProgramando44](https://github.com/MaxiProgramando44)
 
 ---
 ---
-
-# English Version
 
 ## About Me
-Hi! I'm **Maximiliano Rios Henao**, a Cybernetic Systems Engineering student from Bello, Antioquia, Colombia. I am passionate about software development and creating electronic circuits. I love learning new things and bringing great ideas to life through technology.
+
+Cybernetic Systems Engineering student based in Bello, Antioquia, Colombia. Passionate about software development, electronic circuits, and continuous learning.
 
 ### Tech Stack
-- **HTML:** Advanced
-- **CSS:** Intermediate
-- **JavaScript:** Basic
-- **PHP:** Basic
-
-### Projects & Education
-- **Education:** Cybernetic Systems Engineering (In progress) - *`[Add University/Institution]`*
-- **Projects:** `[Add project]`
+* **HTML:** Advanced
+* **CSS:** Intermediate
+* **JavaScript:** Basic
+* **PHP:** Basic
 
 ### Contact
-- **GitHub:** [@MaxiProgramando44](https://github.com/MaxiProgramando44)
-- **Email:** `[Add email]`
+* **GitHub:** [MaxiProgramando44](https://github.com/MaxiProgramando44)
