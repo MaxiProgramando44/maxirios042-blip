@@ -1,64 +1,52 @@
 # Maximiliano Rios Henao
-
-Estudiante de Ingeniería de Sistemas Cibernéticos. Apasionado por el desarrollo de software y la creación de circuitos electrónicos, con un enfoque constante en el aprendizaje y la ejecución de ideas tecnológicas.
-
----
-
-## Presentación
-
-- **Ubicación:** Bello, Antioquia, Colombia
-- **Perfil:** Estudiante de Ingeniería de Sistemas Cibernéticos
-- **Enfoque:** Desarrollo de software y prototipos electrónicos
+*Estudiante de Ingeniería de Sistemas Cibernéticos*
 
 ---
 
-## Intereses
+## 💻 Perfil
 
-- Desarrollo de software y automatización
-- Creación de circuitos electrónicos y sistemas embebidos
-- Aprendizaje continuo y resolución de problemas técnicos
+Estudiante de Ingeniería de Sistemas Cibernéticos enfocado en el desarrollo de software y la creación de circuitos electrónicos. Apasionado por el aprendizaje continuo y la transformación de ideas en proyectos funcionales.
+
+* 📍 **Ubicación:** Bello, Antioquia, Colombia
+* 🐙 **GitHub:** [MaxiProgramando44](https://github.com/MaxiProgramando44)
 
 ---
 
-## Tecnologías
+## 🛠️ Tecnologías y Habilidades
 
-| Tecnología | Nivel | Experiencia / Aplicación |
+| Lenguaje / Tecnología | Nivel | Aplicación |
 | :--- | :--- | :--- |
-| **HTML** | Avanzado | Creación y estructura de páginas web |
-| **CSS** | Intermedio | Diseño y estilización web |
+| **HTML** | Avanzado | Estructuración y desarrollo web |
+| **CSS** | Intermedio | Estilizado y diseño de interfaces web |
 | **JavaScript** | Básico | Automatizaciones |
-| **PHP** | Básico | Conexión y gestión de bases de datos |
+| **PHP** | Básico | Integración y gestión de bases de datos |
 
 ---
 
-## Proyectos
+## 🎯 Áreas de Interés
 
-*(Espacio reservado para repositorios destacados)*
-
----
-
-## Formación
-
-- **Ingeniería de Sistemas Cibernéticos** *(En curso)*
+* **Desarrollo de Software:** Creación de aplicaciones y automatización de procesos.
+* **Electrónica:** Diseño y desarrollo de circuitos electrónicos.
 
 ---
 
-## Contacto
+## 🎓 Formación Académica
 
-- **GitHub:** [MaxiProgramando44](https://github.com/MaxiProgramando44)
+* **Ingeniería de Sistemas Cibernéticos** *(En curso)*
 
 ---
 ---
+
+# English Summary
 
 ## About Me
 
-Cybernetic Systems Engineering student based in Bello, Antioquia, Colombia. Passionate about software development, electronic circuits, and continuous learning.
+Cybernetic Systems Engineering student based in Bello, Antioquia, Colombia. Passionate about software development, electronic circuit design, and continuous technical learning.
 
-### Tech Stack
-* **HTML:** Advanced
-* **CSS:** Intermediate
-* **JavaScript:** Basic
-* **PHP:** Basic
+### Technical Skills
 
-### Contact
-* **GitHub:** [MaxiProgramando44](https://github.com/MaxiProgramando44)
+```text
+HTML        [██████████] Avanzado / Advanced
+CSS         [███████░░░] Intermedio / Intermediate
+JavaScript  [███░░░░░░░] Básico / Basic
+PHP         [███░░░░░░░] Básico / Basic
