@@ -30,16 +30,3 @@ Estudiante de Ingeniería de Sistemas Cibernéticos enfocado en el desarrollo de
 ### Formación
 
 - **Ingeniería de Sistemas Cibernéticos** (En curso)
-
----
----
-
-### English Summary
-
-**Maximiliano Rios Henao**  
-Cybernetic Systems Engineering Student | Bello, Antioquia, Colombia
-
-- **Profile:** Cybernetic Systems Engineering student focused on software development and electronic circuit design.
-- **Tech Stack:** HTML (Advanced), CSS (Intermediate), JavaScript (Basic), PHP (Basic).
-- **Interests:** Software development and electronic circuits.
-- **Education:** Cybernetic Systems Engineering (In progress).
