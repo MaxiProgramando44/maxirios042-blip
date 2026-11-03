@@ -11,22 +11,27 @@ Estudiante de Ingeniería de Sistemas Cibernéticos enfocado en el desarrollo de
 
 ---
 
-### Tecnologías
+### Tecnologías y Herramientas
 
-- **HTML** — Avanzado (Desarrollo web)
-- **CSS** — Intermedio (Diseño web)
-- **JavaScript** — Básico (Automatizaciones)
-- **PHP** — Básico (Bases de datos)
+- **Lenguajes:** HTML (Avanzado), CSS (Intermedio), JavaScript (Básico), PHP (Básico)
+- **Herramientas de Desarrollo:** VS Code, Git, GitHub
+- **Electrónica y Prototipado:** Arduino IDE, Tinkercad
 
 ---
 
 ### Áreas de Interés
 
-- Desarrollo de software
-- Creación de circuitos electrónicos
+- Desarrollo de software y automatización
+- Creación de circuitos electrónicos y sistemas embebidos
 
 ---
 
 ### Formación
 
 - **Ingeniería de Sistemas Cibernéticos** (En curso)
+
+---
+
+### Idiomas
+
+- **Español:** Nativo
