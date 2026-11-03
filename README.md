@@ -1,52 +1,45 @@
 # Maximiliano Rios Henao
-*Estudiante de Ingeniería de Sistemas Cibernéticos*
+**Estudiante de Ingeniería de Sistemas Cibernéticos**
+
+📍 Bello, Antioquia, Colombia | 🐙 GitHub: [MaxiProgramando44](https://github.com/MaxiProgramando44)
 
 ---
 
-## 💻 Perfil
+### Perfil
 
-Estudiante de Ingeniería de Sistemas Cibernéticos enfocado en el desarrollo de software y la creación de circuitos electrónicos. Apasionado por el aprendizaje continuo y la transformación de ideas en proyectos funcionales.
-
-* 📍 **Ubicación:** Bello, Antioquia, Colombia
-* 🐙 **GitHub:** [MaxiProgramando44](https://github.com/MaxiProgramando44)
+Estudiante de Ingeniería de Sistemas Cibernéticos enfocado en el desarrollo de software y la creación de circuitos electrónicos. Interesado en el aprendizaje continuo y en la implementación práctica de soluciones tecnológicas.
 
 ---
 
-## 🛠️ Tecnologías y Habilidades
+### Tecnologías
 
-| Lenguaje / Tecnología | Nivel | Aplicación |
-| :--- | :--- | :--- |
-| **HTML** | Avanzado | Estructuración y desarrollo web |
-| **CSS** | Intermedio | Estilizado y diseño de interfaces web |
-| **JavaScript** | Básico | Automatizaciones |
-| **PHP** | Básico | Integración y gestión de bases de datos |
+- **HTML** — Avanzado (Desarrollo web)
+- **CSS** — Intermedio (Diseño web)
+- **JavaScript** — Básico (Automatizaciones)
+- **PHP** — Básico (Bases de datos)
 
 ---
 
-## 🎯 Áreas de Interés
+### Áreas de Interés
 
-* **Desarrollo de Software:** Creación de aplicaciones y automatización de procesos.
-* **Electrónica:** Diseño y desarrollo de circuitos electrónicos.
+- Desarrollo de software
+- Creación de circuitos electrónicos
 
 ---
 
-## 🎓 Formación Académica
+### Formación
 
-* **Ingeniería de Sistemas Cibernéticos** *(En curso)*
+- **Ingeniería de Sistemas Cibernéticos** (En curso)
 
 ---
 ---
 
-# English Summary
+### English Summary
 
-## About Me
+**Maximiliano Rios Henao**  
+Cybernetic Systems Engineering Student | Bello, Antioquia, Colombia
 
-Cybernetic Systems Engineering student based in Bello, Antioquia, Colombia. Passionate about software development, electronic circuit design, and continuous technical learning.
-
-### Technical Skills
-
-```text
-HTML        [██████████] Avanzado / Advanced
-CSS         [███████░░░] Intermedio / Intermediate
-JavaScript  [███░░░░░░░] Básico / Basic
-PHP         [███░░░░░░░] Básico / Basic
+- **Profile:** Cybernetic Systems Engineering student focused on software development and electronic circuit design.
+- **Tech Stack:** HTML (Advanced), CSS (Intermediate), JavaScript (Basic), PHP (Basic).
+- **Interests:** Software development and electronic circuits.
+- **Education:** Cybernetic Systems Engineering (In progress).
